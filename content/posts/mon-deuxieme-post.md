@@ -1,5 +1,5 @@
 +++
-title = 'Récapulatif Hugo et Github Pages (2ème post)'
+title = 'Récapulatif'
 date = 2023-11-22T13:22:26+01:00
 draft = false
 +++

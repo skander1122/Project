@@ -1,5 +1,5 @@
 +++
-title = "Les Avancées Technologiques Qui Transforment Notre Quotidien (1er post)"
+title = "Les Avancées Technologiques Qui Transforment Notre Quotidien"
 date = 2023-11-22T14:00:00+01:00
 draft = false
 +++
