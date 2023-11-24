@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Blog By Skander</title>
+    <title>Posts on My Blog </title>
     <link>https://skander1122.github.io/Project/posts/</link>
-    <description>Recent content in Posts on My Blog By Skander</description>
+    <description>Recent content in Posts on My Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2023 15:41:33 +0100</lastBuildDate>
@@ -27,10 +27,10 @@
       <link>https://skander1122.github.io/Project/posts/bienvenue/</link>
       <pubDate>Wed, 22 Nov 2023 14:00:00 +0100</pubDate>
       <guid>https://skander1122.github.io/Project/posts/bienvenue/</guid>
-      <description>Bienvenue sur mon site web créer avec Hugo et son thème PaperMod ! Ici, vous trouverez des articles intéressants sur le Les Avancées Technologiques Qui Transforment Notre Quotidien, un Récapulatif Hugo et Github Pages. Un thème sombre est disponible pour ajuster vos préferences de lecture. N&amp;rsquo;hésitez pas à explorer les différents articles et afin de vous enrichir l&amp;rsquo;esprit. Bonne lecture.</description>
+      <description></description>
     </item>
     <item>
-      <title>Les Avancées Technologiques Qui Transforment Notre Quotidien (1er post)</title>
+      <title>Les Avancées Technologiques Qui Transforment Notre Quotidien</title>
       <link>https://skander1122.github.io/Project/posts/mon-premier-post/</link>
       <pubDate>Wed, 22 Nov 2023 14:00:00 +0100</pubDate>
       <guid>https://skander1122.github.io/Project/posts/mon-premier-post/</guid>
@@ -39,7 +39,7 @@ Intelligence Artificielle et Vie Quotidienne : Comment l&amp;rsquo;intelligence 
 Villes Intelligentes : Explorez comment les technologies émergentes transforment nos villes en villes intelligentes, avec des solutions pour la gestion des transports, la consommation d&amp;rsquo;énergie, et plus encore.</description>
     </item>
     <item>
-      <title>Récapulatif Hugo et Github Pages (2ème post)</title>
+      <title>Récapulatif</title>
       <link>https://skander1122.github.io/Project/posts/mon-deuxieme-post/</link>
       <pubDate>Wed, 22 Nov 2023 13:22:26 +0100</pubDate>
       <guid>https://skander1122.github.io/Project/posts/mon-deuxieme-post/</guid>
