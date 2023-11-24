@@ -1,0 +1,4 @@
+baseURL = "https://bassadam.github.io/blogperso/"
+languageCode = "fr-fr"
+title = "Blog Personnel"
+theme = "papermod"
