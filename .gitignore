@@ -1,4 +1,6 @@
-
+.hugo_build.lock
 themes/hermit/
 themes/LoveIt/
 
+themes/PaperMod/
+themes/hugo-coder/
