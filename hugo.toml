@@ -1,55 +1,55 @@
 baseURL = "https://skander1122.github.io/Project/"
-languageCode = "fr-fr"
-title = "Blog Personnel"
-theme = "papermod"
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+languageCode = 'en-us'
+title = 'My Blog By Skander'
+theme = 'hugo-coder'
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-name = "PaperMod"
-license = "MIT"
-licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
-description = "A fast, clean, responsive Hugo theme"
-homepage = "https://adityatelange.github.io/hugo-PaperMod/"
-tags = [
-  "responsive",
-  "simple",
-  "clean",
-  "light",
-  "dark",
-  "blog",
-  "minimalist",
-  "highlight.js",
-  "search"
-]
-features = [
-  "responsive",
-  "single-column",
-  "blog",
-  "cover-image",
-  "table-of-contents",
-  "opengraph",
-  "highlight.js",
-  "favicon",
-  "archive",
-  "share-icons",
-  "cover",
-  "multilingual",
-  "social-icons",
-  "minified-assets",
-  "theme-toggle",
-  "menu-location-indicator",
-  "scroll-to-top",
-  "search"
-]
-min_version = "0.97.1"
 
-[author]
-  name = "Aditya Telange"
-  homepage = "https://github.com/adityatelange/"
 
-# If porting an existing theme
-[original]
-  name = "Paper"
-  author = "nanxiaobei"
-  homepage = "https://github.com/nanxiaobei"
-  repo = "https://github.com/nanxiaobei/hugo-paper/"
+paginate = 20
+
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Skander"
+  info = "**Cliquez sur Blog pour voir les posts.**"
+  description = "Blog website"
+  keywords = "blog,developer,personal"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"

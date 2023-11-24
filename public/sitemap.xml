@@ -2,29 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bassadam.github.io/blogperso/</loc>
+    <loc>https://skander1122.github.io/Project/posts/mon-deuxieme-article/</loc>
     <lastmod>2023-11-24T15:41:33+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/mon-deuxieme-article/</loc>
+    <loc>https://skander1122.github.io/Project/</loc>
     <lastmod>2023-11-24T15:41:33+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/</loc>
+    <loc>https://skander1122.github.io/Project/posts/</loc>
     <lastmod>2023-11-24T15:41:33+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/mon-premier-article/</loc>
+    <loc>https://skander1122.github.io/Project/posts/mon-premier-article/</loc>
     <lastmod>2023-11-24T15:41:23+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/bienvenue/</loc>
+    <loc>https://skander1122.github.io/Project/posts/bienvenue/</loc>
     <lastmod>2023-11-22T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/mon-premier-post/</loc>
+    <loc>https://skander1122.github.io/Project/posts/mon-premier-post/</loc>
     <lastmod>2023-11-22T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/posts/mon-deuxieme-post/</loc>
+    <loc>https://skander1122.github.io/Project/posts/mon-deuxieme-post/</loc>
     <lastmod>2023-11-22T13:22:26+01:00</lastmod>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/categories/</loc>
+    <loc>https://skander1122.github.io/Project/authors/</loc>
   </url><url>
-    <loc>https://bassadam.github.io/blogperso/tags/</loc>
+    <loc>https://skander1122.github.io/Project/categories/</loc>
+  </url><url>
+    <loc>https://skander1122.github.io/Project/series/</loc>
+  </url><url>
+    <loc>https://skander1122.github.io/Project/tags/</loc>
   </url>
 </urlset>
