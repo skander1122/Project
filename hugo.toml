@@ -1,64 +1,9 @@
-baseURL = 'https://arounaj.github.io/GithubPages/'
+baseURL = "https://skander1122.github.io/Project/"
 languageCode = 'en-us'
-title = 'Raver'
-theme = 'hugo-coder'
+title = 'My Blog By Skander'
+theme = 'beautifulhugo'
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
-
-disqusShortname = "yourdiscussshortname"
-
-[markup.highlight]
-style = "github-dark"
-
-[params]
-  author = "Arouna"
-  info = "Full Stack DevOps and Magician"
-  description = "Raver website"
-  keywords = "blog,developer,personal"
-  #gravatar = "john.doe@example.com"
-
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
-  since = 2019
-
-  enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
-
-# Social links
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/arounaj/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/arounaj/"
 
 
-# Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
