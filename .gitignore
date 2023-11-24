@@ -1,6 +1,4 @@
 .hugo_build.lock
-themes/hermit/
-themes/LoveIt/
-
-themes/PaperMod/
-themes/hugo-coder/
+themes/beautifulhugo/
+themes/ananke
+themes/hugo-coder

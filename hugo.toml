@@ -1,11 +1,9 @@
-baseURL = "https://skander1122.github.io/Project/"
+baseURL = 'https://arounaj.github.io/GithubPages/'
 languageCode = 'en-us'
-title = 'My Blog By Skander'
+title = 'Raver'
 theme = 'hugo-coder'
 languagecode = "en"
 defaultcontentlanguage = "en"
-
-
 
 paginate = 20
 
@@ -15,9 +13,9 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "Skander"
-  info = "**Cliquez sur Blog pour voir les posts.**"
-  description = "Blog website"
+  author = "Arouna"
+  info = "Full Stack DevOps and Magician"
+  description = "Raver website"
   keywords = "blog,developer,personal"
   #gravatar = "john.doe@example.com"
 
@@ -42,6 +40,17 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/arounaj/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/arounaj/"
 
 
 # Menu links

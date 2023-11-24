@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My Blog By Skander</title>
-    <link>https://skander1122.github.io/Project/categories/</link>
-    <description>Recent content in Categories on My Blog By Skander</description>
+    <title>Categories on Raver</title>
+    <link>https://arounaj.github.io/GithubPages/categories/</link>
+    <description>Recent content in Categories on Raver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://skander1122.github.io/Project/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 14:35:44 +0100</lastBuildDate>
+    <atom:link href="https://arounaj.github.io/GithubPages/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Développement Web</title>
+      <link>https://arounaj.github.io/GithubPages/categories/d%C3%A9veloppement-web/</link>
+      <pubDate>Thu, 16 Nov 2023 14:35:44 +0100</pubDate>
+      <guid>https://arounaj.github.io/GithubPages/categories/d%C3%A9veloppement-web/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
